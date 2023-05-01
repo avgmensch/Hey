@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "run": "deno run --allow-net ./source/hey.ts"
+  },
+  "fmt": {
+    "indentWidth": 2,
+    "lineWidth": 500,
+    "semiColons": true,
+    "singleQuote": false,
+    "useTabs": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.config": "./deno.jsonc",
+  "cSpell.words": [
+    "agify",
+    "genderize",
+    "nationalize"
+  ]
+}
